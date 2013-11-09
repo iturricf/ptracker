@@ -1,0 +1,17 @@
+{
+    "name": "ptracker",
+    "description": "Collects data from a GPS tracker and displays it on a Google map",
+    "licenses": [
+        { "type": "Apache License, Version 2.0"
+        , "url": "https://github.com/iturricf/ptracker/blob/master/LICENSE"
+        }
+    ],
+    "author": "Cristian Iturri <iturri.cf@gmail.com>",
+    "private": true,
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "~3.4.2",
+        "mongodb": "~1.3.19",
+        "hbs": "~2.4.0"
+    }
+}
